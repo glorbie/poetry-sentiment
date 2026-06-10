@@ -1,9 +1,9 @@
 cff-version: 1.2.0
-message: "If you use this ..., please cite it as below."
+message: "If you use this repository, please cite it as below."
 authors:
 - family-names: "Everett"
   given-names: "Clare Aoife"
-paper-title: "..."
+paper-title: "Limitations of Lexicon-Based Sentiment Analysis on Korean Poetry"
 course-title: "BA2 Digital Korea"
 date-released: 2026-05-31
 url: "https://github.com/glorbie/poetry-sentiment"
